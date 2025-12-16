@@ -1,0 +1,27 @@
+.chartWrapper{
+    width: 100%;
+    /* max-width: 500px; */
+    background-color: white;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.chartCorpus{
+    height: 400px;
+    padding: 10px;
+}
+
+.chartExplanation{
+    padding: 10px;
+    font-size: 80%;
+    font-weight: 500;
+    color: #111;
+}
+
+.chartTitle{
+    padding: 15px;
+    font-size: 110%;
+    font-weight: 600;
+    color: #111;
+    border-bottom: 3px solid grey;
+}
